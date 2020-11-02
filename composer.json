@@ -1,0 +1,17 @@
+{
+    "name": "paola12tut/sistemanegociov3",
+    "description": "proyecto artesonline v3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "perla paola tut matos",
+            "email": "paola12tut@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.12",
+        "illuminate/events": "^8.12",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
